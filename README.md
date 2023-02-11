@@ -55,8 +55,3 @@ const sun = {
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssunniezz" alt="Sun's LangStat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssunniezz&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Sun's language" height="192px"  width="500px"/>
 </div>
-
-<h2> 📊Fun Stats!!📊 </h2>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
