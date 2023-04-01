@@ -32,7 +32,7 @@ const sun = {
     code: ["Python", "Java", "C", "Scala", "Rust", "Dart", "Javascript", "Html", "Css"],
     technologies: {
         frontEnd: {
-            framework: ["Vue.js"]
+            framework: ["Vue.js", "React"]
         },
         backEnd: {
             java: ["Spring"],
@@ -42,7 +42,7 @@ const sun = {
             crossPlatform: ["flutter"]
         },
         devOps: ["DigitalOcean", "Docker🐳", "Nginx"],
-        databases: ["Postgresql", "MySql", "sqlite"],
+        databases: ["Postgresql", "MySql", "sqlite", "Firebase"],
         misc: ["git", "linux", "pytest"],
     },
     languages: ["Thai", "English", "Chinese"],
