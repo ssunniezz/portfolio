@@ -29,20 +29,21 @@
  
  ```javascript
 const sun = {
-    code: ["Python", "Java", "C", "Scala", "Rust", "Dart", "Javascript", "Html", "Css"],
+    code: ["Python", "Java", "C#", "C", "Scala", "Rust", "Dart", "Javascript", "Html", "Css"],
     technologies: {
         frontEnd: {
             framework: ["Vue.js", "React"]
         },
         backEnd: {
             java: ["Spring"],
-            python: ["Flask"]
+            python: ["Flask"],
+            c#: [".NET"]
         },
         mobileApp: {
             crossPlatform: ["flutter"]
         },
-        devOps: ["DigitalOcean", "Docker🐳", "Nginx"],
-        databases: ["Postgresql", "MySql", "sqlite", "Firebase"],
+        devOps: ["DigitalOcean", "Docker🐳", "Nginx", "Kubernetes"],
+        databases: ["Postgresql", "MySql", "MSSql", "sqlite", "Firebase"],
         misc: ["git", "linux", "pytest"],
     },
     languages: ["Thai", "English", "Chinese"],
